@@ -2,7 +2,7 @@
 
 The majority of this manual was created by Andre Bernet.
 
-Other contributors listed here: [Contributors](contributors.md)  
+Other contributors listed here: [Contributors](https://raw.githubusercontent.com/opentx/opentx/2.2/CREDITS.txt)
 
 Commercial use forbidden without explicit authorization of the authors and translators. 
 
